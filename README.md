@@ -92,7 +92,7 @@ This project is released under the MIT License.
 
 ---
 
-## Referenes
+## References
 
 Zheng, J., Guo, H., & Chu, H. (2022). A large scale 12-lead electrocardiogram database for arrhythmia study (Version 1.0.0). PhysioNet. RRID:SCR_007345. https://doi.org/10.13026/wgex-er52
 
