@@ -3,7 +3,7 @@
 ## Overview
 This project implements a machine learning pipeline for **ECG arrhythmia classification** using a **Logistic Regression** model. The goal is to accurately diagnose 13 different cardiac conditions from ECG signals.  
 
-The model leverages **feature extraction**, **PCA for dimensionality reduction**, **class weighting** to handle imbalanced data, and **category mapping** to group similar arrhythmia types.
+The model leverages **feature extraction**, **PCA for dimensionality reduction**, **class weighting** to handle imbalanced data, and **category mapping** to group similar conditions.
 
 ### Cardiac Conditions
 1. Atrial Arrhythmias
@@ -27,7 +27,7 @@ The model uses the **ECG Arrhythmia dataset** from [PhysioNet](https://physionet
 
 - **Format:** ECG recordings in `.mat` files  
 - **Number of samples:** 10,450 ECG recordings  
-- **Classes:** 10 arrhythmia categories (0–9), derived from mapping 13 broader categories.
+- **Classes:** 10 condition categories (0–9), derived from mapping 13 broader categories.
 
 ---
 
