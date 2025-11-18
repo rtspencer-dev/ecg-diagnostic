@@ -73,7 +73,7 @@ The model uses the **ECG Arrhythmia dataset** from [PhysioNet](https://physionet
 | Weighted Avg | Precision: 0.54, Recall: 0.88, F1: 0.66 |
 | Samples Avg  | Precision: 0.61, Recall: 0.92, F1: 0.68 |
 
-**Overall Accuracy:** 87.79%
+**Overall Performance:** 87.79%
 
 ---
 
